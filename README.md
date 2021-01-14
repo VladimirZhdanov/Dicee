@@ -12,8 +12,8 @@ You will need a mac computer, xcode app and as optional physical iPhone.
 
 
 <div align="left">
-    <img src="https://github.com/VladimirZhdanov/Dicee/blob/master/images/IMG_0329.PNG" width="200px"</img> 
-    <img src="https://github.com/VladimirZhdanov/Dicee/blob/master/images/IMG_0330.PNG" width="200px"</img> 
+    <img src="https://github.com/VladimirZhdanov/Dicee/blob/master/images/IMG_0329.jpg" width="200px"</img> 
+    <img src="https://github.com/VladimirZhdanov/Dicee/blob/master/images/IMG_0330.jpg" width="200px"</img> 
 </div>
 
 ## A few words
